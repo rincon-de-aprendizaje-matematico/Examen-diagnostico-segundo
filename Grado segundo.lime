@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lim version="5.6.3">
+    <config>
+          <recursos>$C:\Users\natal\OneDrive\Escritorio\edilim564\edilim564\</recursos>
+        <idioma>0</idioma>
+        <licencia></licencia>
+          <corfondo>FFE1D2</corfondo>
+        <corbanda>FFCEB7</corbanda>
+        <cormensaxes>000000</cormensaxes>
+          <cortexto>000000</cortexto>
+          <titulo>EXÁMEN DIÁGNOSTICO</titulo>
+          <subtitulo>GRADO SEGUNDO</subtitulo>
+        <logo>..\..\edilim564\edilim564\Logo --fotor-20241104133318.png</logo>
+          <imaxefondo posx="-166" posy="80" trans="40">..\..\edilim564\edilim564\Fondo -.png</imaxefondo>
+          <informe>0</informe>
+          <botonson>0</botonson>
+          <maximizar>0</maximizar>
+        <desordenar>0</desordenar>
+        <correcto son="..\..\edilim564\edilim564\Correcto.mp3" modo="1" >CORRECTO</correcto>
+        <incorrecto son="..\..\edilim564\edilim564\" modo="1" >INCORRECTO</incorrecto>
+    </config>
+    <libro>
+        <paxina id="1" >
+              <tipo>2</tipo>
+              <texto posx="123" posy="122" ancho="31" largo="307"><![CDATA[
+<p align="center">
+<font color="#080000" face="Arial" size="24"><i>Este examen de diagnóstico evalúa tus conocimientos actuales en matemáticas para identificar áreas de mejora. No es evaluativo, sino una herramienta para guiar tu aprendizaje y ayudarte a avanzar. Aquí pondrás a prueba tu conocimiento en operaciones básicas y comprensión de figuras geométricas. ¡Tómate tu tiempo y diviértete explorando el mundo de los números!</i><br>
+<br>
+</font></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+              <chtml>1</chtml>
+        </paxina>
+        <paxina id="2" >
+              <tipo>23</tipo>
+              <cabeceira>Arrastra los números que faltan.</cabeceira>
+              <imaxe>..\..\edilim564\edilim564\punto 4.png</imaxe>
+              <modo>0</modo>
+              <etiqueta posx="215" posy="122">..\..\edilim564\edilim564\nueve.png</etiqueta>
+              <etiqueta posx="604" posy="120">..\..\edilim564\edilim564\24.png</etiqueta>
+              <etiqueta posx="688" posy="119">..\..\edilim564\edilim564\27.png</etiqueta>
+        </paxina>
+        <paxina id="3" >
+              <tipo>33</tipo>
+              <cabeceira>Resuelve</cabeceira>
+              <modo>0</modo>
+              <forma>0</forma>
+              <numero>2</numero>
+              <numero>2</numero>
+        </paxina>
+        <paxina id="4" >
+              <tipo>33</tipo>
+              <cabeceira>Resuelve</cabeceira>
+              <modo>0</modo>
+              <forma>1</forma>
+              <numero>2</numero>
+              <numero>2</numero>
+        </paxina>
+        <paxina id="5" >
+              <tipo>31</tipo>
+              <cabeceira>Lucía tiene 45000 entre billetes y monedas. Organiza el dinero usando diferentes billetes y monedas hasta completar el total.</cabeceira>
+              <valor texto="">45000</valor>
+              <etiqueta imaxe="..\..\edilim564\edilim564\1000.jpg" texto="">1000</etiqueta>
+              <etiqueta imaxe="..\..\edilim564\edilim564\10000.jpeg" texto="">10000</etiqueta>
+              <etiqueta imaxe="..\..\edilim564\edilim564\20000.jpg" texto="">20000</etiqueta>
+              <etiqueta imaxe="..\..\edilim564\edilim564\5000.jpg" texto="">5000</etiqueta>
+        </paxina>
+        <paxina id="6" >
+              <tipo>30</tipo>
+              <cabeceira>¿Cuántos dulces hay en cada caja para que cada par sume 100?</cabeceira>
+              <imaxe posx="10" posy="0">..\..\edilim564\edilim564\punto 3.png</imaxe>
+              <modo>1</modo>
+              <etiqueta posx="305" posy="256">35</etiqueta>
+              <etiqueta posx="651" posy="255">50</etiqueta>
+        </paxina>
+        <paxina id="7" >
+              <tipo>35</tipo>
+              <cabeceira>Ordena los números de menor a mayor</cabeceira>
+              <forma>0</forma>
+              <completa>..\..\edilim564\edilim564\18.jpg</completa>
+              <completa>..\..\edilim564\edilim564\28.jpg</completa>
+              <completa>..\..\edilim564\edilim564\46.jpg</completa>
+              <completa>..\..\edilim564\edilim564\75.jpg</completa>
+              <completa>..\..\edilim564\edilim564\83.jpg</completa>
+        </paxina>
+        <paxina id="8" >
+              <tipo>7</tipo>
+              <cabeceira>Clasifica las siguientes líneas</cabeceira>
+              <caixa1>LÍNEAS ABIERTAS</caixa1>
+              <caixa2>LÍNEAS CERRADAS</caixa2>
+              <mini caixa="1">..\..\edilim564\edilim564\Punto 1 - segundo- abierta.png</mini>
+              <mini caixa="2">..\..\edilim564\edilim564\Punto 1 - segundo-cerr.png</mini>
+              <mini caixa="1">..\..\edilim564\edilim564\Punto 1 - segundo-ab .png</mini>
+              <mini caixa="2">..\..\edilim564\edilim564\Punto 1 - segundo-cerra.png</mini>
+              <mini caixa="1">..\..\edilim564\edilim564\Punto 1 - segundo-abi.png</mini>
+              <mini caixa="2">..\..\edilim564\edilim564\Punto 1 - segundo-cerrada.png</mini>
+              <cfondo>FFE1D2</cfondo>
+              <cadro></cadro>
+              <modo></modo>
+        </paxina>
+        <paxina id="9" >
+              <tipo>2</tipo>
+              <cabeceira>Lee atentamente y resuelve</cabeceira>
+              <imaxe posx="253" posy="52">..\..\edilim564\edilim564\estadistica.png</imaxe>
+              <texto posx="161" posy="-56" ancho="212" largo="504"><![CDATA[
+<p align="left">
+<font color="#080000" face="Century" size="28"><i></i><br>
+<i>En una escuela preguntaron cuántos niños y niñas había en la clase.</i><br>
+<i>Ellos escribieron:</i><br>
+<i>Niñas: Gina, Claudia y Laura.</i><br>
+<i>Niños: Carlos, Diego, Raúl, José y Mario.</i><br>
+<br>
+<i>Hicieron la tabla de datos.</i><br>
+<br>
+</font></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+              <chtml>1</chtml>
+        </paxina>
+        <paxina id="10" >
+              <tipo>23</tipo>
+              <cabeceira>Ilustra en la gráfica el número de niñas  y niños</cabeceira>
+              <imaxe>..\..\edilim564\edilim564\Grafica.png</imaxe>
+              <modo>3</modo>
+              <etiqueta posx="334" posy="238">..\..\edilim564\edilim564\cuadrado.png</etiqueta>
+              <etiqueta posx="333" posy="200">..\..\edilim564\edilim564\cuadrado.png</etiqueta>
+              <etiqueta posx="472" posy="238">..\..\edilim564\edilim564\cuadrado.png</etiqueta>
+              <etiqueta posx="471" posy="201">..\..\edilim564\edilim564\cuadrado.png</etiqueta>
+              <etiqueta posx="469" posy="163">..\..\edilim564\edilim564\cuadrado.png</etiqueta>
+              <etiqueta posx="469" posy="125">..\..\edilim564\edilim564\cuadrado.png</etiqueta>
+        </paxina>
+        <paxina id="11" >
+              <tipo>20</tipo>
+              <cabeceira>Completa la tabla</cabeceira>
+              <imaxe>..\..\edilim564\edilim564\Estadistica.jpg</imaxe>
+              <modo>3</modo>
+              <etiqueta posx="319" posy="208">2</etiqueta>
+              <etiqueta posx="314" posy="283">4</etiqueta>
+        </paxina>
+        <paxina id="12" >
+              <tipo>28</tipo>
+              <cabeceira>¡Has terminado! Ahora puedes volver a la página principal a seguir aprendiendo</cabeceira>
+              <boton texto="Rincon de aprendizaje matemático">https://sites.google.com/view/rincondeaprendizajematematico</boton>
+        </paxina>
+    </libro>
+</lim>
